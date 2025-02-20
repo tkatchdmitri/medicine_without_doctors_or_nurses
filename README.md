@@ -6,7 +6,7 @@ Did you know there is one biologist for every thousand people? And that biologis
 
 This amounts to a tremendous amount of research publications in the field of biology and medicine that no human can hope to read in a lifetime.
 
-As a result doctors are working with an outdated education even before they complete their degree.
+As a result doctors and nurses are working with an outdated education even before they complete their degree.
 
 This is not so for language models, which can and do read every single word on the internet.
 
