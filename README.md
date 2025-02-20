@@ -1,4 +1,4 @@
-# Medicine Without Healthcare
+# Decentralized Medicine
 
 What if medicine was easily and freely accessible? 
 
