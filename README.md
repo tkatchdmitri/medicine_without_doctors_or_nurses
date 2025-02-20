@@ -10,8 +10,6 @@ As a result doctors are working with an outdated education even before they comp
 
 This is not so for language models, which can and do read every single word on the internet.
 
-I have chosen not to productize this.
-
-Medicine and medical advice should be free.
+I have chosen not to productize this as medicine and medical advice should be free.
 
 Text me with your email for free advice, which for legal reasons is not medical but religious, thank you.
