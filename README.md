@@ -12,6 +12,4 @@ This is not so for language models, which can and do read every single word on t
 
 By specializing a large language model to medicine one can obsolete every healthcare professional on the planet.
 
-I have chosen not to productize this as medicine and medical advice should be free.
-
 Text me with your email for free advice, which for legal reasons is not medical but religious, thank you.
